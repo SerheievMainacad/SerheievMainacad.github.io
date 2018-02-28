@@ -45,6 +45,8 @@
 	width: 100px;
 	height: 100px;	
 	background-color: blue;
+	margin-top: calc(50% - 50px);
+	margin-left: calc(50% - 50px);
 }
 
 
